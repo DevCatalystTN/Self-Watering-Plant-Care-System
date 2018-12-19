@@ -1,0 +1,1 @@
+This folder contains a list of Python scripts that can be used to test indivdual components of the Plant Care System.
